@@ -1,0 +1,42 @@
+h2{
+	padding: 15px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+
+.container{
+	padding: 15px;
+	border: 1px solid black;
+	margin: 15px;
+}
+
+.my
+{
+	padding: 10px;
+	border :1px solid black;
+	display: flex;
+	flex-direction : row;
+	justify-content : space-around;
+}
+
+.my div{
+	display: flex;
+	padding: 10px;
+	border: 1px solid black;
+	align-items: center;
+}
+.btn1
+{
+	padding :30px;
+	margin : 20px;
+	border: 1px solid black;
+}
+
+.btn2
+{
+	padding :30px;
+	margin : 20px;
+	border: 1px solid black;
+}
+
